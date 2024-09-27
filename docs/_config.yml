@@ -32,6 +32,30 @@ theme: minima
 plugins:
   - jekyll-feed
 
+feed:
+  categories:
+    - news
+    - updates
+    - other
+    - test
+  # collections:
+  #   - news
+  # collections:
+    # changes:
+    #   path: "/changes.atom"
+    #   categories:
+    #     - news
+    #     - updates
+    # other:
+      # path: "/other.atom"
+      # categories:
+        # - other
+    # test:
+      # path: "/test.atom"
+      # categories:
+        # - test
+  tags: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
