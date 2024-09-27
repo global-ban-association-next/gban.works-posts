@@ -23,7 +23,7 @@ email: hi@un-known.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   A safer Minecraft for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://raw.posts.gban.works" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://posts.gban.works" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  global-ban-association-next
 
